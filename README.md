@@ -1,2 +1,3 @@
 # SC_302_Documentacion_MN_JocselynChavesSevilla
 practica_Github
+Esta es mi primera practica con GitHub
